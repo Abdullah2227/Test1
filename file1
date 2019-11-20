@@ -1,3 +1,5 @@
-public static main void {
-
-system.out.println("Hello world");}
+public class {
+public static void main(string args[]){
+system.out.println("Hello world");
+}
+}
